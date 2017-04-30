@@ -70,9 +70,9 @@ Input of 4:
 </code></pre>
  
 <br><strong>Requirements</strong></br>
-You must not submit your node_modules folder
-You must remember to save your dependencies to your package.json folder
-You must do basic error checking in each function
-Check for arguments existing and of proper type.
-Throw if anything is out of bounds (ie, trying to perform an incalculable math operation or accessing data that does not exist)
-If a function should return a promise, instead of throwing you should return a rejected promise.
+1. You must not submit your node_modules folder
+2. You must remember to save your dependencies to your package.json folder
+3. You must do basic error checking in each function
+   1. Check for arguments existing and of proper type.
+   2. Throw if anything is out of bounds (ie, trying to perform an incalculable math operation or accessing data that does         not exist)
+   3. If a function should return a promise, instead of throwing you should return a rejected promise.
