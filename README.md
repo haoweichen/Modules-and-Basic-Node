@@ -67,7 +67,7 @@ Input of 4:
 /   \
 \   /
  \-/
- <pre><code> 
+</code></pre>
  
 <br><strong>Requirements</strong></br>
 You must not submit your node_modules folder
